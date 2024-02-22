@@ -10,9 +10,9 @@ Although currently very basic it is possible to add features to enable a fairly 
 
 ## Tech 
 
-Python
-StreamLit
-Requests Lib
+- Python
+- StreamLit
+- Requests Lib
 
 ## Usage
 
