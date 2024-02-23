@@ -1,0 +1,11 @@
+index,name,date,amount,type,function
+1,Eddie,01/02/2013,100,plain,finance
+2,Peter,02/02/2013,200,plain,finance
+3,John,02/05/2013,300,dirty,playgroup
+4,Paul,05/04/2013,40,plain,playgroup
+5,Dave,01/02/2013,500,dirty,finance
+6,Tracy,02/02/2013,420,sirty,finance
+7,Judith,02/05/2013,484,plain,playgroup
+8,Sam,05/04/2013,548,plain,playgroup
+9,Eden,01/02/2013,612,dirty,finance
+10,Lola,02/02/2013,676,dirty,finance
